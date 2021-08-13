@@ -1,0 +1,12 @@
+D:\Workspace\dotnet\social-app\Domain\bin\Debug\net5.0\Domain.deps.json
+D:\Workspace\dotnet\social-app\Domain\bin\Debug\net5.0\Domain.dll
+D:\Workspace\dotnet\social-app\Domain\bin\Debug\net5.0\ref\Domain.dll
+D:\Workspace\dotnet\social-app\Domain\bin\Debug\net5.0\Domain.pdb
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.dll
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\ref\Domain.dll
+D:\Workspace\dotnet\social-app\Domain\obj\Debug\net5.0\Domain.pdb

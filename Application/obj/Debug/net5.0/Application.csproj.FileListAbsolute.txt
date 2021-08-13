@@ -1,0 +1,17 @@
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Application.deps.json
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Application.dll
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\ref\Application.dll
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Application.pdb
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Domain.dll
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Persistence.dll
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Persistence.pdb
+D:\Workspace\dotnet\social-app\Application\bin\Debug\net5.0\Domain.pdb
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.dll
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\ref\Application.dll
+D:\Workspace\dotnet\social-app\Application\obj\Debug\net5.0\Application.pdb
