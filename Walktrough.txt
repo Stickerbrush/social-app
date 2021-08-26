@@ -1,0 +1,2 @@
+Create react app with typescript
+npx create-react-app client-app --use-npm --template typescript
